@@ -4,6 +4,7 @@
 ### - Sou um grande entusiasta de jogos e rpgs de mesa, sempre me animo falando sobre isso.
 ### - Meus jogos favoritos são: Dark Souls (e agregados), Last of Us, League of Legends, Dead by Daylight e Overwatch.
 ### - Meus filmes/séries/animes preferidos são: Star Wars, Harry Potter, Breaking Bad, Vikings, Attack on Titan e Jojo.
+### - Já mestrei/joguei Call of Cthulhu, Dungeons and Dragons, Mutants and Masterminds e Ordem Paranormal.
 ### - Curiosidade sobre mim: Eu já platinei Dark Souls 2, Dark Souls 3, Bloodborne, Sekiro e Elden Ring.
 <!--
 **MateusSeabra/MateusSeabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
