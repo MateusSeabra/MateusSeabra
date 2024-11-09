@@ -2,7 +2,7 @@
 #### Estou cursando Ciência da Computação na UFBA, sou um desenvolvedor na empresa júnior TITAN e estou em um projeto de Iniciação Científica na UFBA, sobre o edital Metaverso no 2 de Julho da Fapesb.
 #### Atualmente eu estou focado em obter experiência prática na área de tecnologia enquanto sigo o meu curso.
 #### Sou um grande entusiasta de jogos e rpgs de mesa, sempre me animo falando sobre isso.
-#### Meus jogos favoritos são: Dark Souls (e agregados), Last of Us, League of Legends, Dead by Daylight e Overwatch.
+#### Meus jogos favoritos são: Dark Souls (e agregados), Last of Us e God of War 2018.
 #### Meus filmes/séries/animes preferidos são: Star Wars, Harry Potter, Breaking Bad, Last Kingdom, Attack on Titan e Jojo.
 #### Já mestrei/joguei Call of Cthulhu, Dungeons and Dragons, Mutants and Masterminds e Ordem Paranormal.
 #### Curiosidade sobre mim: Eu já platinei Dark Souls 2, Dark Souls 3, Bloodborne, Sekiro e Elden Ring.
