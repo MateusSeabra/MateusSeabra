@@ -1,6 +1,5 @@
 ### Olá, meu nome é Mateus Rocha Seabra!
-### Hello, my name is Mateus Rocha Seabra!
-### 
+
 - 👨‍💻 Sou um desenvolvedor web e de backend
 - 📊 Estou explorando a área de dados
 - 🎓 Curso atualmente Ciência da Computação na UFBA
