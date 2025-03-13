@@ -9,22 +9,7 @@
 - 💼 Busco ingressar no mercado de trabalho
 
 ### Ferramentas e Tecnologias
-<style>
-  .icon-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px; /* Espaçamento entre os ícones */
-    justify-content: center;
-    max-width: 150px; /* Defina um limite de largura para quebrar a cada 3 ícones */
-  }
 
-  .icon-container img {
-    width: 40px;
-    height: 40px;
-  }
-</style>
+| ![Git](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />)
+| ![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
 
-<div class="icon-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
