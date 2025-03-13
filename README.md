@@ -29,4 +29,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSeabra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
 </div>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/MateusSeabra/MateusSeabra/blob/output/github-contribution-grid-snake2.svg)
