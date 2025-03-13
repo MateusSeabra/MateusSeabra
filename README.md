@@ -29,8 +29,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSeabra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
