@@ -18,11 +18,3 @@
 <a href="https://www.linkedin.com/in/mateus-seabra-3b3251226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://wa.me/5571992184156" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 </div>
-
-## Estatísticas
-
-<div>
-<a href="https://github.com/MateusSeabra">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSeabra&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSeabra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-</div>
